@@ -46,10 +46,8 @@ async function runAccessibilityCheck() {
       report += nodes;
       report += '</details>\n\n';
     }
-
-    fs.writeFileSync('accessibility_report.md', report, 'utf8');
-    console.log('Accessibility report generated.');
   }
+  fs.writeFileSync('accessibility_report.md', report, 'utf8');
+  console.log('Accessibility report generated.');
 }
-
 runAccessibilityCheck();
