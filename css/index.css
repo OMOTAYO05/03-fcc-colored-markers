@@ -7,6 +7,7 @@ h1 {
   text-align: center;
 }
 
+
 .container {
   background-color: rgb(255, 255, 255);
   padding: 10px 0;
@@ -40,8 +41,8 @@ h1 {
 }
 
 .green {
-  background: linear-gradient(#55680D, #71F53E, #116C31);
-  box-shadow: 0 0 20px 0 #3B7E20CC;
+  background: linear-gradient(#55680d, #71f53e, #116c31);
+  box-shadow: 0 0 20px 0 #3b7e20cc;
 }
 
 .blue {
