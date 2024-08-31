@@ -1,15 +1,15 @@
 # Project Name
 
-> One paragraph statement about the project.
+> A SET OF COLORED MARKERS.
 
-![screenshot](./app_screenshot.png)
+![ 03-FCC-COLORED-MARKERS](./colored-markers.jpeg)
 
-Additional description of the project and its features.
+a colored markers which describe how colors can be combine and used .
 
 ## Built With
 
-- Major languages,
-- frameworks,
+- CSS,
+- fHTML5,
 - technologies used
 
 ## Live Demo
