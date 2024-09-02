@@ -9,13 +9,13 @@ a colored markers which describe how colors can be combine and used .
 ## Built With
 
 - CSS-
-- Selector:
 - `background-color`, `box-shadow`, `display`
 - HTML5
 - `<div>`
-- technologies used
-
-## Live Demo
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
+- Github Action
 
 [Live Demo Link](https://livedemo.com)
 
