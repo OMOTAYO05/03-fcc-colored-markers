@@ -2,7 +2,7 @@
 
 > A SET OF COLORED MARKERS.
 
-![ 03-FCC-COLORED-MARKERS](./colored_markers.PNG)
+![ 03-FCC-COLORED-MARKERS](app_screenshot-colored-marker.png))
 
 a colored markers which describe how colors can be combine and used .
 
