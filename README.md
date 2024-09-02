@@ -17,8 +17,9 @@ a colored markers which describe how colors can be combine and used .
   - [Stylelint](https://stylelint.io/),
 - Github Action
 
-[Live Demo Link](https://livedemo.com)
+## Deployment
 
+[Deployment link] https://vercel.com/onikosi-omotayo-eniolas-projects/03-fcc-colored-markers
 ### Development (Running locally)
 
 - Clone the project
