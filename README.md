@@ -8,8 +8,11 @@ a colored markers which describe how colors can be combine and used .
 
 ## Built With
 
-- CSS,
-- fHTML5,
+- CSS-
+- Selector:
+- `background-color`, `box-shadow`, `display`
+- HTML5
+- <div>
 - technologies used
 
 ## Live Demo
