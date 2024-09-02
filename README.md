@@ -2,7 +2,7 @@
 
 > A SET OF COLORED MARKERS.
 
-![ 03-FCC-COLORED-MARKERS](./colored-markers.PNG)
+![ 03-FCC-COLORED-MARKERS](./colored_markers.PNG)
 
 a colored markers which describe how colors can be combine and used .
 
@@ -12,7 +12,7 @@ a colored markers which describe how colors can be combine and used .
 - Selector:
 - `background-color`, `box-shadow`, `display`
 - HTML5
-- <div>
+- `<div>`
 - technologies used
 
 ## Live Demo
