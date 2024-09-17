@@ -1,20 +1,26 @@
-# Project Name
+# 03-fcc-colored-markers
 
-> One paragraph statement about the project.
+> CSS colors by building a Set of Colored Markers.
 
-![screenshot](./app_screenshot.png)
+![ 03-FCC-COLORED-MARKERS](app_screenshot.png)
 
-Additional description of the project and its features.
+a colored markers which describe how colors can be combine and used .
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- CSS-
+ - `background-color`:used to set the background color of an element 
+ - `box-shadow`: used to add shadow effects around an element’s frame
+ - `display`: used for controlling the layout of elements on a webpage
+- HTML5
+ - `div`: used to group block-level content and structure an HTML document
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
+- Github Action
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+## Deployment link
+[Deployment link] https://vercel.com/onikosi-omotayo-eniolas-projects/03-fcc-colored-markers
 
 ### Development (Running locally)
 
